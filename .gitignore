@@ -1,0 +1,24 @@
+###########################
+##### GIT IGNORE FILE #####
+###########################
+
+# ignore .htaccess
+.htaccess
+
+# ignore IDE configs
+.idea/
+
+# ignore WP local files
+wp-content/upgrade/
+wp-content/advanced-cache.php
+wp-content/cache/
+wp-content/backups/
+
+# ignore node files
+node_modules/
+
+# ignore file system files
+.DS_Store
+
+# ignore misc files
+*.log
